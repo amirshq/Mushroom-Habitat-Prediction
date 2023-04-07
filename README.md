@@ -33,4 +33,6 @@ Attribute Information: (classes: edible=e, poisonous=p)
 	•	spore-print-color: black=k,brown=n,buff=b,chocolate=h,green=r,orange=o,purple=u,white=w,yellow=y
 	•	population: abundant=a,clustered=c,numerous=n,scattered=s,several=v,solitary=y
 	•	habitat: grasses=g,leaves=l,meadows=m,paths=p,urban=u,waste=w,woods=d
+	
+End
 
