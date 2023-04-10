@@ -9,6 +9,8 @@ Inspiration
 	•	What types of machine learning models perform best on this dataset?
 	•	Which features are most indicative of a poisonous mushroom?
 
+
+
 About this file
 Attribute Information: (classes: edible=e, poisonous=p)
 	•	cap-shape: bell=b,conical=c,convex=x,flat=f, knobbed=k,sunken=s
