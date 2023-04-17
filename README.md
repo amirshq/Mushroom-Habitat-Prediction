@@ -7,7 +7,7 @@ This dataset includes descriptions of hypothetical samples corresponding to 23 s
 	•	Time period: Donated to UCI ML 27 April 1987
 Inspiration
 	•	What types of machine learning models perform best on this dataset?
-	•	Which features are most indicative of a poisonous mushroom?
+	•	Which features are most indicative of a poisonous mushroom? 
 
 
 
