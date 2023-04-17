@@ -20,7 +20,7 @@ Attribute Information: (classes: edible=e, poisonous=p)
 	•	odor: almond=a,anise=l,creosote=c,fishy=y,foul=f,musty=m,none=n,pungent=p,spicy=s
 	•	gill-attachment: attached=a,descending=d,free=f,notched=n
 	•	gill-spacing: close=c,crowded=w,distant=d
-	•	gill-size: broad=b,narrow=n
+	•	gill-size: broad=b,narrow=n 
 	•	gill-color: black=k,brown=n,buff=b,chocolate=h,gray=g, green=r,orange=o,pink=p,purple=u,red=e,white=w,yellow=y
 	•	stalk-shape: enlarging=e,tapering=t
 	•	stalk-root: bulbous=b,club=c,cup=u,equal=e,rhizomorphs=z,rooted=r,missing=?
